@@ -47,7 +47,7 @@ All product names, logos, and brands belong to their respective owners.
 
 ## 📥 Download
 
-👉 [⬇️ Download APK](https://github.com/Jeyasuriya-pillai/ShriSaikrupaStoresApp/releases/tag/v1.0)
+👉 [⬇️ Download APK](https://github.com/Jeyasuriya-pillai/Shri_Saikrupa_Stores_App/releases/tag/v1.0)
 
 ---
 
@@ -70,4 +70,5 @@ All product names, logos, and brands belong to their respective owners.
 
 ## 💡 Note
 
-This project reflects my learning journey in Android development and my effort to build real-world applications with practical features.
+This project demonstrates the implementation of a basic e-commerce application with essential features and clean UI design.
+It highlights my understanding of Android development and real-world app structure.
