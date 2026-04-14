@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82686578515",
+    "project_id": "shrisaikrupastores",
+    "storage_bucket": "shrisaikrupastores.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82686578515:android:8c2f4251a2a2a46e931ba6",
+        "android_client_info": {
+          "package_name": "com.shrisaikrupa.stores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2thOkRRHgE9wxAtvnsrxzy03gdtZ3N7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
